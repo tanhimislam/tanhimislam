@@ -15,10 +15,8 @@
 
 
 ## Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanhimislam&theme=merko" alt="tanhimislam"  /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanhimislam&theme=dark" alt="tanhimislam"  /> 
 
-## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=tanhimislam&theme=github" alt="tanhimislam" /></p> 
 
 ## Profile View
 ![Profile views](https://gpvc.arturio.dev/tanhimislam)
